@@ -4,56 +4,56 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2018-09-21T10:07:14-00:00</lastmod>
+<loc>https://data-science.djack-labs.fr/</loc>
+<lastmod>2018-09-21T12:10:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2018-09-21T10:07:14-00:00</lastmod>
+<loc>https://data-science.djack-labs.fr/archives.html</loc>
+<lastmod>2018-09-21T12:10:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2018-09-21T10:07:14-00:00</lastmod>
+<loc>https://data-science.djack-labs.fr/tags.html</loc>
+<lastmod>2018-09-21T12:10:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2018-09-21T10:07:14-00:00</lastmod>
+<loc>https://data-science.djack-labs.fr/categories.html</loc>
+<lastmod>2018-09-21T12:10:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/les-hello-worlds-du-machine-learning.html</loc>
+<loc>https://data-science.djack-labs.fr/les-hello-worlds-du-machine-learning.html</loc>
 <lastmod>2018-09-20T20:51:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/comment-se-convertir-a-la-data-science.html</loc>
+<loc>https://data-science.djack-labs.fr/comment-se-convertir-a-la-data-science.html</loc>
 <lastmod>2018-09-01T10:51:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/formation.html</loc>
+<loc>https://data-science.djack-labs.fr/category/formation.html</loc>
 <lastmod>2018-09-20T20:51:00+00:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/jacques-billard.html</loc>
+<loc>https://data-science.djack-labs.fr/author/jacques-billard.html</loc>
 <lastmod>2018-09-20T20:51:00+00:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
