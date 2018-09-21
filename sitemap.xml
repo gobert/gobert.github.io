@@ -5,57 +5,57 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://data-science.djack-labs.fr/</loc>
-<lastmod>2018-09-21T12:10:05-00:00</lastmod>
-<changefreq>daily</changefreq>
+<lastmod>2018-09-21T14:01:32-00:00</lastmod>
+<changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://data-science.djack-labs.fr/archives.html</loc>
-<lastmod>2018-09-21T12:10:05-00:00</lastmod>
-<changefreq>daily</changefreq>
+<lastmod>2018-09-21T14:01:32-00:00</lastmod>
+<changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://data-science.djack-labs.fr/tags.html</loc>
-<lastmod>2018-09-21T12:10:05-00:00</lastmod>
-<changefreq>daily</changefreq>
+<lastmod>2018-09-21T14:01:32-00:00</lastmod>
+<changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://data-science.djack-labs.fr/categories.html</loc>
-<lastmod>2018-09-21T12:10:05-00:00</lastmod>
-<changefreq>daily</changefreq>
+<lastmod>2018-09-21T14:01:32-00:00</lastmod>
+<changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://data-science.djack-labs.fr/les-hello-worlds-du-machine-learning.html</loc>
 <lastmod>2018-09-20T20:51:00+02:00</lastmod>
-<changefreq>monthly</changefreq>
+<changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://data-science.djack-labs.fr/comment-se-convertir-a-la-data-science.html</loc>
 <lastmod>2018-09-01T10:51:00+02:00</lastmod>
-<changefreq>monthly</changefreq>
+<changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://data-science.djack-labs.fr/category/formation.html</loc>
 <lastmod>2018-09-20T20:51:00+00:53</lastmod>
-<changefreq>daily</changefreq>
+<changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://data-science.djack-labs.fr/author/jacques-billard.html</loc>
 <lastmod>2018-09-20T20:51:00+00:53</lastmod>
-<changefreq>daily</changefreq>
+<changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
