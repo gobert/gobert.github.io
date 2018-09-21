@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Djack labs: Data Science &amp; Software Engineering</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2018-09-01T10:51:00+02:00</updated><subtitle>My Awesome Blog</subtitle><entry><title>Comment se convertir à la Data Science</title><link href="/comment-se-convertir-a-la-data-science.html" rel="alternate"></link><published>2018-09-01T10:51:00+02:00</published><updated>2018-09-01T10:51:00+02:00</updated><author><name>Jacques Billard</name></author><id>tag:None,2018-09-01:/comment-se-convertir-a-la-data-science.html</id><summary type="html">&lt;p&gt;Quelques notes de ma conversion à la data science. Devant le manque de ressources en français à ce sujet, j'ai décidé de partager ces notes.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Djack labs: Data Science &amp; Software Engineering</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2018-09-20T20:51:00+02:00</updated><subtitle>My Awesome Blog</subtitle><entry><title>Les " Hello Worlds " du Machine Learning</title><link href="/les-hello-worlds-du-machine-learning.html" rel="alternate"></link><published>2018-09-20T20:51:00+02:00</published><updated>2018-09-20T20:51:00+02:00</updated><author><name>Jacques Billard</name></author><id>tag:None,2018-09-20:/les-hello-worlds-du-machine-learning.html</id><summary type="html">&lt;p&gt;Voici une liste de problèmes pour commencer en Machine Learning. La liste est classée par ordre de difficulté. Vous trouverez sans problèmes les jeux de données ainsi que des solution avec google.&lt;/p&gt;
+&lt;h2&gt;Régression&lt;/h2&gt;
+&lt;h3&gt;Prédiction des prix immobiliers&lt;/h3&gt;
+&lt;p&gt;Avec les jeux de données de Boston ou en Californie. C'est un premier …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Voici une liste de problèmes pour commencer en Machine Learning. La liste est classée par ordre de difficulté. Vous trouverez sans problèmes les jeux de données ainsi que des solution avec google.&lt;/p&gt;
+&lt;h2&gt;Régression&lt;/h2&gt;
+&lt;h3&gt;Prédiction des prix immobiliers&lt;/h3&gt;
+&lt;p&gt;Avec les jeux de données de Boston ou en Californie. C'est un premier exercice de regression.&lt;/p&gt;
+&lt;h2&gt;Classification&lt;/h2&gt;
+&lt;h3&gt;Titanic&lt;/h3&gt;
+&lt;p&gt;Le Hello World de la classification.&lt;/p&gt;
+&lt;h3&gt;Classification des fleurs d'Iris&lt;/h3&gt;
+&lt;p&gt;Un autre exercice de classification. L'évaluation des problèmes de classification est plus compliquée/interessante que dans les problèmes de regression.&lt;/p&gt;
+&lt;h2&gt;Sujets plus avancés&lt;/h2&gt;
+&lt;h3&gt;Détecteurs de spams&lt;/h3&gt;
+&lt;p&gt;Plus qu'un exercice de classification: une introduction au traitement automatique du langage naturel (Natural Language Processing).&lt;/p&gt;
+&lt;h2&gt;MNIST - classification de digit&lt;/h2&gt;
+&lt;p&gt;Classification  d'images. Vous pouvez vous entrainez sur des le jeu de donnée MNIST. Pour approfodondir il y le NotMNIST et le Fashion MNIST.&lt;/p&gt;
+&lt;h2&gt;Compétitions Kaggle - catégorie "getting Started"&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.kaggle.com/competitions?sortBy=grouped&amp;amp;group=general&amp;amp;page=1&amp;amp;pageSize=20&amp;amp;category=gettingStarted"&gt;Cette catégorie de compétition&lt;/a&gt; est faite pour accumuler des connaissances et du savoir faire en Machine Learning. Vous pourrez aussi apprendre des Kernels de vos " compétiteurs".&lt;/p&gt;</content></entry><entry><title>Comment se convertir à la Data Science</title><link href="/comment-se-convertir-a-la-data-science.html" rel="alternate"></link><published>2018-09-01T10:51:00+02:00</published><updated>2018-09-01T10:51:00+02:00</updated><author><name>Jacques Billard</name></author><id>tag:None,2018-09-01:/comment-se-convertir-a-la-data-science.html</id><summary type="html">&lt;p&gt;Quelques notes de ma conversion à la data science. Devant le manque de ressources en français à ce sujet, j'ai décidé de partager ces notes.&lt;/p&gt;
 &lt;h1&gt;Comment se convertir à la Data Science ?&lt;/h1&gt;
 &lt;p&gt;Voici les parcours que j'ai effectué jusque maintenant, si cela peut vous inspirer ...&lt;/p&gt;
 &lt;h3&gt;1. Apprendre/rafraichir les bases …&lt;/h3&gt;</summary><content type="html">&lt;p&gt;Quelques notes de ma conversion à la data science. Devant le manque de ressources en français à ce sujet, j'ai décidé de partager ces notes.&lt;/p&gt;
